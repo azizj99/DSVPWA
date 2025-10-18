@@ -27,5 +27,5 @@ unzip sonar - scanner . zip
 ./ sonar - scanner -*/ bin / sonar - scanner \
 - Dsonar . projectKey = tp - sast \
 - Dsonar . sources =. \
-- Dsonar . host . url = http :// < IP_SONAR >:9000 \
-- Dsonar . login = $SONAR_TOKEN
+- Dsonar . host . url = http ://localhost:9000 \
+- Dsonar . login = squ_3833ce3407712024261f1be749d51304dcdd9c5a
